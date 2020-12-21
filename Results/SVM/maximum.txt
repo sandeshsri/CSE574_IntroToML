@@ -1,0 +1,84 @@
+Accuracy on training data:
+0.6436355205193601
+
+Accuracy on test data:
+0.6544356711565258
+
+Cost on training data:
+$-588,953,084
+
+Cost on test data:
+$-141,497,914
+
+Attempting to enforce max profit...TEST_DATA
+
+Probability of positive prediction for African-American: 0.6651917404129793
+Probability of positive prediction for Caucasian: 0.5755228505034856
+Probability of positive prediction for Hispanic: 0.48148148148148145
+Probability of positive prediction for Other: 0.39473684210526316
+
+Accuracy for African-American: 0.6755162241887905
+Accuracy for Caucasian: 0.6436870642912471
+Accuracy for Hispanic: 0.6296296296296297
+Accuracy for Other: 0.6842105263157895
+
+FPR for African-American: 0.4876325088339223
+FPR for Caucasian: 0.4339339339339339
+FPR for Hispanic: 0.39473684210526316
+FPR for Other: 0.28
+
+FNR for African-American: 0.20759493670886076
+FNR for Caucasian: 0.2736
+FNR for Hispanic: 0.3125
+FNR for Other: 0.38461538461538464
+
+TPR for African-American: 0.7924050632911392
+TPR for Caucasian: 0.7263999999999999
+TPR for Hispanic: 0.6875
+TPR for Other: 0.6153846153846154
+
+TNR for African-American: 0.5123674911660777
+TNR for Caucasian: 0.5660660660660661
+TNR for Hispanic: 0.6052631578947368
+TNR for Other: 0.72
+
+Threshold for African-American: 0.11111111111111112
+Threshold for Caucasian: 0.11111111111111112
+Threshold for Hispanic: 0.10101010101010102
+Threshold for Other: 0.12121212121212122
+Attempting to enforce max profit...TRAIN DATA
+
+Probability of positive prediction for African-American: 0.6890289103039289
+Probability of positive prediction for Caucasian: 0.6090961427748992
+Probability of positive prediction for Hispanic: 0.5494505494505495
+Probability of positive prediction for Other: 0.45038167938931295
+
+Accuracy for African-American: 0.6438102297998517
+Accuracy for Caucasian: 0.6422951448858185
+Accuracy for Hispanic: 0.643956043956044
+Accuracy for Other: 0.6679389312977099
+
+FPR for African-American: 0.5511744966442953
+FPR for Caucasian: 0.4665377176015474
+FPR for Hispanic: 0.41568627450980394
+FPR for Other: 0.3161290322580645
+
+FNR for African-American: 0.20185922974767595
+FNR for Caucasian: 0.25057121096725055
+FNR for Hispanic: 0.28
+FNR for Other: 0.35514018691588783
+
+TPR for African-American: 0.798140770252324
+TPR for Caucasian: 0.7494287890327495
+TPR for Hispanic: 0.72
+TPR for Other: 0.6448598130841121
+
+TNR for African-American: 0.4488255033557047
+TNR for Caucasian: 0.5334622823984526
+TNR for Hispanic: 0.584313725490196
+TNR for Other: 0.6838709677419355
+
+Threshold for African-American: 0.11111111111111112
+Threshold for Caucasian: 0.11111111111111112
+Threshold for Hispanic: 0.10101010101010102
+Threshold for Other: 0.12121212121212122
